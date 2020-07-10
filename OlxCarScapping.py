@@ -6,7 +6,7 @@ import pandas
 #get the website pages
 #min = input('minimum range :')
 #max = input('maximum range :')
-min='70000'
+min='100000'
 max='150000'
 url ='https://www.olx.in/delhi_g4058659/cars_c84?filter=price_between_'+min+'_to_'+max
 #browser = webdriver.Chrome('chromedriver') 
